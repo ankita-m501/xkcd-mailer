@@ -20,15 +20,17 @@ This project implements an email subscription system that delivers [XKCD](https:
 - **Email Inbox Preview**  
 - **Unsubscribe Flow**
     ![](./assets/1.png)
-    ![](./assets/)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
-    ![](./assets/1.png)
+    ![](./assets/Screenshot%202025-07-03%20122135.png)
+    ![](./assets/Screenshot%2025-07-03%122246.png)
+    ![](./assets/Screenshot%2025-07-03%122332.png)
+    ![](./assets/Screenshot%2025-07-03%122406.png)
+    ![](./assets/Screenshot%2025-07-03%122459.png)
+    ![](./assets/Screenshot%2025-07-03%122519.png)
+    ![](./assets/Screenshot%2025-07-03%122532.png)
+    ![](./assets/Screenshot%2025-07-03%122551.png)
+    ![](./assets/Screenshot%2025-07-03%122607.png)
+    ![](./assets/Screenshot%2025-07-03%122629.png)
+    ![](./assets/Screenshot%2025-07-03%122655.png)
  
 
 
