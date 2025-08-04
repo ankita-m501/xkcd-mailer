@@ -21,16 +21,16 @@ This project implements an email subscription system that delivers [XKCD](https:
 - **Unsubscribe Flow**
     ![](./assets/1.png)
     ![](./assets/Screenshot%202025-07-03%20122135.png)
-    ![](./assets/Screenshot%2025-07-03%122246.png)
-    ![](./assets/Screenshot%2025-07-03%122332.png)
-    ![](./assets/Screenshot%2025-07-03%122406.png)
-    ![](./assets/Screenshot%2025-07-03%122459.png)
-    ![](./assets/Screenshot%2025-07-03%122519.png)
-    ![](./assets/Screenshot%2025-07-03%122532.png)
-    ![](./assets/Screenshot%2025-07-03%122551.png)
-    ![](./assets/Screenshot%2025-07-03%122607.png)
-    ![](./assets/Screenshot%2025-07-03%122629.png)
-    ![](./assets/Screenshot%2025-07-03%122655.png)
+    ![](./assets/Screenshot%202025-07-03%20122246.png)
+    ![](./assets/Screenshot%202025-07-03%20122332.png)
+    ![](./assets/Screenshot%202025-07-03%20122406.png)
+    ![](./assets/Screenshot%202025-07-03%20122459.png)
+    ![](./assets/Screenshot%202025-07-03%20122519.png)
+    ![](./assets/Screenshot%202025-07-03%20122532.png)
+    ![](./assets/Screenshot%202025-07-03%20122551.png)
+    ![](./assets/Screenshot%202025-07-03%20122607.png)
+    ![](./assets/Screenshot%202025-07-03%20122629.png)
+    ![](./assets/Screenshot%202025-07-03%20122655.png)
  
 
 
