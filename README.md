@@ -16,9 +16,20 @@ This project implements an email subscription system that delivers [XKCD](https:
 
 📽️ [Watch the demo video](https://drive.google.com/file/d/1HjlqThzp6KRdG5qp64RKrf82yrKiUVRF/view?usp=sharing)
 🔍 Screenshots:
-- **Subscription Page**  
+- **Subscription Page**
 - **Email Inbox Preview**  
 - **Unsubscribe Flow**
+    ![](./assets/1.png)
+    ![](./assets/)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+    ![](./assets/1.png)
+ 
 
 
 ## 🧰 Tech Stack
