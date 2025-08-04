@@ -38,7 +38,7 @@ This project implements an email subscription system that delivers [XKCD](https:
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript 
+- **Frontend:** HTML, CSS
 - **Backend:** PHP
 - **Database:** registered_emails is used as the database
 - **Email:** PHPMailer
